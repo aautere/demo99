@@ -1,0 +1,16 @@
+C:\code\demo99\demo99\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\code\demo99\demo99\bin\Debug\netcoreapp2.2\appsettings.json
+C:\code\demo99\demo99\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\code\demo99\demo99\bin\Debug\netcoreapp2.2\demo99.deps.json
+C:\code\demo99\demo99\bin\Debug\netcoreapp2.2\demo99.runtimeconfig.json
+C:\code\demo99\demo99\bin\Debug\netcoreapp2.2\demo99.runtimeconfig.dev.json
+C:\code\demo99\demo99\bin\Debug\netcoreapp2.2\demo99.dll
+C:\code\demo99\demo99\bin\Debug\netcoreapp2.2\demo99.pdb
+C:\code\demo99\demo99\obj\Debug\netcoreapp2.2\demo99.csprojAssemblyReference.cache
+C:\code\demo99\demo99\obj\Debug\netcoreapp2.2\demo99.RazorAssemblyInfo.cache
+C:\code\demo99\demo99\obj\Debug\netcoreapp2.2\demo99.RazorAssemblyInfo.cs
+C:\code\demo99\demo99\obj\Debug\netcoreapp2.2\demo99.AssemblyInfoInputs.cache
+C:\code\demo99\demo99\obj\Debug\netcoreapp2.2\demo99.AssemblyInfo.cs
+C:\code\demo99\demo99\obj\Debug\netcoreapp2.2\demo99.RazorTargetAssemblyInfo.cache
+C:\code\demo99\demo99\obj\Debug\netcoreapp2.2\demo99.dll
+C:\code\demo99\demo99\obj\Debug\netcoreapp2.2\demo99.pdb

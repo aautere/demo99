@@ -1,0 +1,4 @@
+2020-03-19T08:27:19.359Z - info:   [22060] *** FOLDER: c:\code\demo99\demo99 ***
+2020-03-19T08:27:19.361Z - info:   [22060] AzureReposVSCode/1.161.0 (VSCode 1.43.0; Windows_NT 10.0.18362; Node 12.8.1)
+2020-03-19T08:27:19.369Z - warn:   [22060] TFVC Couldn't find where the TF command lives on disk.
+2020-03-19T08:27:19.370Z - error:  [22060] The path to the TFVC command line (including filename) was not found in the user settings. Please set this value (tfvc.location) and try again.
